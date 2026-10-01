@@ -13,7 +13,7 @@
 
 ## 📌 Visão Geral do Projeto
 
-Este repositório contém um projeto completo de engenharia e ciência de dados desenvolvido com **PySpark** no ambiente **Databricks**, utilizando dados públicos do e-commerce da Olist. O objetivo principal é estruturar um pipeline de dados robusto seguindo a **Arquitetura Medalhão** (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) para preparar uma base analítica focada em prever avaliações de clientes (`review_score >= 4`).
+Este repositório contém um projeto completo de engenharia de dados desenvolvido com **PySpark** no ambiente **Databricks**, utilizando dados públicos do e-commerce da Olist. O objetivo principal é estruturar um pipeline de dados robusto seguindo a **Arquitetura Medalhão** (Bronze $\rightarrow$ Silver $\rightarrow$ Gold) para garantir o processamento, transformação e entrega de camadas analíticas de alta performance.
 
 ---
 
