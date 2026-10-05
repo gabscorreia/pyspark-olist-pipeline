@@ -1,5 +1,5 @@
 
-# 🚀 Arquitetura Medalhão End-to-End (PySpark & Databricks): Olist
+# Arquitetura Medalhão End-to-End (PySpark & Databricks): Olist
 
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)](https://databricks.com/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
